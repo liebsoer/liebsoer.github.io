@@ -1,0 +1,10 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.3",
+        "reviewCount": "368"
+    },
+    "url": "https://www.mercedes-benz-berlin.de"
+}
